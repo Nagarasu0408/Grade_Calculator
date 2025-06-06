@@ -41,4 +41,4 @@ for (int i = 0; i < 5; i++)
     sum += Sub[i] * CH[i];
 }
 double Total = sum / CH.Sum();
-Console.WriteLine("Total GPA:"+Total.ToString("F2"));
+Console.WriteLine("Total GPA:"+Total);
